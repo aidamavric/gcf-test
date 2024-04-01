@@ -1,4 +1,3 @@
 # gcf-test
 GCF testing Webhook! Version 3.
-Testing Slack!
-gfufhfhfhfjfkjufjk
+Testing Slack IB support.
